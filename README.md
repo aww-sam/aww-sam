@@ -65,14 +65,13 @@ A passionate **AI/ML learner** who loves building and learning every day.
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
+# 📊 GitHub Stats  
 
-# 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=aww-sam&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=aww-sam&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aww-sam&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=aww-sam&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aww-sam&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aww-sam&theme=tokyonight)
 
 ---
 
