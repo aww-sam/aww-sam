@@ -69,8 +69,6 @@ A passionate **AI/ML learner** who loves building and learning every day.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aww-sam&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aww-sam&theme=tokyonight)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aww-sam&theme=tokyonight)
 
 ---
