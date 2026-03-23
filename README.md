@@ -24,7 +24,7 @@ A passionate **AI/ML learner** who loves building and learning every day.
 <a href="https://instagram.com/_samyoog" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="guragainrakesh.com.np" target="blank">
+<a href="https://guragainrakesh.com.np" target="blank">
   <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/editing-user-action/user-preferences-color-icon.png" height="30" width="40" />
 </a>
 
