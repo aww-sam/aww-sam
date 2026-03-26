@@ -11,7 +11,7 @@ A passionate **AI/ML learner** who loves building and learning every day.
 
 - 🌱 Exploring Machine Learning & Deep Learning  
 - 🧠 Interested in Computer Vision & Data Science  
-- 🌐 Building web apps using Django & Streamlit  
+- 🌐 Building web apps using Flask & Streamlit  
 - 🎯 Goal: Create impactful AI-based solutions  
 
 ---
